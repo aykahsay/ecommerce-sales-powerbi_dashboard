@@ -205,7 +205,7 @@ us_state_long_lat_codes (1) ───▶ (∞) ecommerce_data (∞) ◀───
 
    * Interact with filters (Category, Region, Year).
    * Analyze YTD and YOY performance metrics.
-<img width="892" height="534" alt="image" src="https://github.com/user-attachments/assets/94f2155a-c626-489b-8ce7-d8558890ba50" />
+
 
 ---
 
